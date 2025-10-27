@@ -18,6 +18,26 @@ This project is a Streamlit-based web application that analyzes a candidate’s 
 - python-docx – Resume content extraction
 - re – Text cleaning & preprocessing
 
+⚙️ **Installation**
+
+1. Clone this repository:
+```
+git clone https://github.com/<your-username>/resume-job-matcher.git
+cd resume-job-matcher
+```
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3. Run the app:
+```
+streamlit run app.py
+```
+4. Access locally at:
+```
+http://localhost:8501
+```
+
 📊 **Output Example**
 - After uploading your resume and job description, the app instantly provides:
 - Match Score: 0–100% alignment based on text similarity.
