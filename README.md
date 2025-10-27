@@ -51,6 +51,6 @@ http://localhost:8501
 - Option to export report as PDF.
 
 🧑‍💼 **Ideal For**
-Job seekers looking to tailor their resumes for specific job descriptions.
-Recruiters aiming for quick candidate-job fit assessment.
-Career portals enhancing AI-driven resume screening.
+- Job seekers looking to tailor their resumes for specific job descriptions.
+- Recruiters aiming for quick candidate-job fit assessment.
+- Career portals enhancing AI-driven resume screening.
